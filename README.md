@@ -7,7 +7,7 @@ Android and Backend Developer
 I'm a backend engineer with a passion for Spring Boot — and I love diving into Android lifecycles whenever I get the chance.
 
 * 🌍  I'm based in Punjab, India
-* 🖥️  See my portfolio at [mohitBansal.class](http://portfolio-gamma-eosin-48.vercel.app/)
+* 🖥️  See my portfolio at [mohitBansal.class]([[http://portfolio-gamma-eosin-48.vercel.app/](https://www.linkedin.com/in/workmohit17/)](https://mohitbansal.vercel.app/))
 * ✉️  You can contact me at [workmohit17@gmail.com](mailto:workmohit17@gmail.com)
 * 🧠  I'm learning deployment with CI/CD and advance microservice
 * 🤝  I'm open to collaborating on interesting projects
